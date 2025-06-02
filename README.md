@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Tech Stacks
+
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />
+
 <!--
 **enicolel/enicolel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
